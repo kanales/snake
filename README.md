@@ -1,3 +1,3 @@
 # Snake
 
-A study on virtual intelligence algorithms.
+A study on artificial intelligence algorithms.
